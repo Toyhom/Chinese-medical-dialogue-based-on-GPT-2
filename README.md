@@ -1,4 +1,5 @@
-# Chinese-medical-dialogue-based-on-GPT-2 基于GPT-2的医疗对话
+# Chinese-medical-dialogue-based-on-GPT-2 
+# 基于GPT-2的医疗对话
 
 ## GPT-2
 对话核心部分参考
